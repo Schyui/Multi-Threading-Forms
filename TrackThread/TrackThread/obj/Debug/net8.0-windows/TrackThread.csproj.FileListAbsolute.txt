@@ -1,0 +1,17 @@
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\bin\Debug\net8.0-windows\TrackThread.exe
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\bin\Debug\net8.0-windows\TrackThread.deps.json
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\bin\Debug\net8.0-windows\TrackThread.runtimeconfig.json
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\bin\Debug\net8.0-windows\TrackThread.dll
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\bin\Debug\net8.0-windows\TrackThread.pdb
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\obj\Debug\net8.0-windows\TrackThread.frmTrackThread.resources
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\obj\Debug\net8.0-windows\TrackThread.csproj.GenerateResource.cache
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\obj\Debug\net8.0-windows\TrackThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\obj\Debug\net8.0-windows\TrackThread.AssemblyInfoInputs.cache
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\obj\Debug\net8.0-windows\TrackThread.AssemblyInfo.cs
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\obj\Debug\net8.0-windows\TrackThread.csproj.CoreCompileInputs.cache
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\obj\Debug\net8.0-windows\TrackThread.dll
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\obj\Debug\net8.0-windows\refint\TrackThread.dll
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\obj\Debug\net8.0-windows\TrackThread.pdb
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\obj\Debug\net8.0-windows\TrackThread.genruntimeconfig.cache
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\obj\Debug\net8.0-windows\ref\TrackThread.dll
+C:\Users\Harvey Mellomida\source\repos\TrackThread\TrackThread\obj\Debug\net8.0-windows\TrackThread.Properties.Resources.resources
